@@ -1,0 +1,13 @@
+OrderID,Customer,City,Product,Sales,Quantity,Date
+1001,Ravi,Chennai,Laptop,65000.0,1.0,2025-01-10
+1002,Arun,Coimbatore,Mouse,800.0,2.0,2025-01-11
+1003,Priya,Madurai,Keyboard,28231.81818181818,1.0,2025-01-12
+1004,Anu,Salem,Monitor,15000.0,1.0,2025-01-13
+1005,Kumar,Chennai,Laptop,64000.0,1.0,2025-01-14
+1006,Divya,Unknown,Printer,12000.0,1.0,2025-01-15
+1007,Ram,Erode,Mouse,900.0,1.0,2025-01-16
+1008,Suresh,Coimbatore,Laptop,67000.0,1.0,2025-01-16
+1009,Meena,Chennai,Keyboard,1500.0,2.0,2025-01-18
+1010,Raj,Madurai,Mouse,850.0,1.0,2025-01-19
+1011,Arun,Coimbatore,Monitor,14500.0,1.0,2025-01-20
+1012,Priya,Salem,Laptop,69000.0,1.0,2025-01-21
