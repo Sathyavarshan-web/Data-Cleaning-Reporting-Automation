@@ -11,7 +11,7 @@ This project automates the process of cleaning raw sales data and generating rep
 - Generates visualizations
 - Creates Excel and PDF reports
 
-## Technologies Used
+## Tools Used
 - Python
 - Pandas
 - NumPy
